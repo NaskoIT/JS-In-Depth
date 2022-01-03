@@ -1,0 +1,15 @@
+{
+  "name": "mvc-with-ejs",
+  "version": "1.0.0",
+  "description": "Simple MVC web application build with Express and ejs view engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atanas Vasilev",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2"
+  }
+}
