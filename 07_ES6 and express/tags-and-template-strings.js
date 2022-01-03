@@ -16,3 +16,4 @@ function tag(staticParts, ...dynamicParts) {
 const dynamicValue = 100;
 const result = tag`Js test => ${dynamicValue}, another value: ${dynamicValue + 100}`;
 console.log(result);
+// Js test => {{100}}, another value: {{200}}
