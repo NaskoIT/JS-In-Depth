@@ -1,0 +1,15 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "Simple app build with express and js for the front-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atanas Vasilev",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
