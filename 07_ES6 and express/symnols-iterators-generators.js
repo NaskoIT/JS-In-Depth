@@ -59,5 +59,3 @@ function* idGen() {
 const iter = idGen();
 console.log(iter.next()); // { value: 0, done: false }
 
-
-
